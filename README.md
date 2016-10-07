@@ -1,6 +1,10 @@
 # Learn_Depth
 拆轮子-学习Depth唯美的动画效果
 
+原来的库代码 https://github.com/danielzeller/Depth-LIB-Android-
+
+（这个库实现的效果实在是美翻了）
+
 相应的博文 http://immortalz.me/559.html
 
 原来效果
